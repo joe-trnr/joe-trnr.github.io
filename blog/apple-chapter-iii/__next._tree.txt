@@ -4,4 +4,4 @@
 :HL["/_next/static/media/b156100eddfb6bc4-s.p.257csl9lc0s0n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/c8e7f96418209c97-s.p.1wv9adx67v-8j.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/chunks/0szq4zeem1zra.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"apple-chapter-iii","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"vbJs5nHQwImh-cAJDWkBb"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"apple-chapter-iii","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"iRzzVtT9LortzFQ8vWeaZ"}
